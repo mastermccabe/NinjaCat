@@ -1,0 +1,45 @@
+body{
+  text-align:left;
+  display: inline-block;
+  width:950px;
+  height:auto;
+
+}
+img {
+  display:inline-block;
+
+}
+
+
+#top0{
+  height:auto;
+
+}
+#top1{
+  height:auto;
+}
+#top2{
+  height:auto;
+}
+#top3{
+  height:auto;
+}
+#top4{
+  height:auto;
+}
+
+#top0 img[src*="ninja"] {
+ display:none;
+}
+#top1 img[src*="ninja"] {
+ display:none;
+}
+#top2 img[src*="ninja"] {
+ display:none;
+}
+#top3 img[src*="ninja"] {
+ display:none;
+}
+#top4 img[src*="ninja"] {
+ display:none;
+}
