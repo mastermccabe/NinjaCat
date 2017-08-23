@@ -3,7 +3,7 @@ $('document').ready(function() {
   $('img.puzzle-image').click(function(){
 
     var element = $(this);
-    // This creates a reference to the 'img.puzzle-image' html element
+    // This creates a jQuery reference to the 'img.puzzle-image' html element
 
     var src = element.attr('src');
     // the ".attr('src')" gets whatever is in the 'src=""' attribute for the given html element
